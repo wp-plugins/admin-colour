@@ -1,6 +1,6 @@
 === Admin-Colour ===
 
-Contributors: alex3410 
+Contributors: Alex Wells 
 
 Donate link: http://www.twitter.com/alex_simpsons
 
@@ -8,7 +8,7 @@ Tags: admin, menu, colour code, admin menu colour, menu color, color code, admin
 admin color code
 Requires at least: 2.0.2
 
-Tested up to: 3.2.1
+Tested up to: 4.3
 
 Stable tag: 4.3
 
@@ -49,6 +49,10 @@ This plugin has been created by Alex Wells, a Web Developer working at Simpsons 
 == Changelog ==
 
 = 
+3.0=
+
+* Updated to bring it inline with 4.3
+
 2.1 =
 
 * Removed white space from plugin which caused issues with RSS
